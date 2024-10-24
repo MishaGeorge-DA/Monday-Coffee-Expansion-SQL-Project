@@ -54,7 +54,7 @@ on c.city_id = ci.city_id
 group by ci.city_name,ci.population
 order by Coffee_Consumers desc;
 
-6)What are the top 3 selling products in each city based on sales volume?
+6) What are the top 3 selling products in each city based on sales volume?
 --With Ranking As
 (
 select p.product_name,ci.city_name,
