@@ -146,10 +146,10 @@ Based on the data analysis, the top three recommended cities for new store openi
 
 	--Largest estimated coffee consumer base at 7.7 million
 	--Highest total customer count at 68
-	--Average rent per customer is 330 (well below 500)
+	--Average rent per customer is 330 
 
 3. Jaipur
 
-	--Highest number of customers at 69
-	--Very low average rent per customer at 156
+	--Highest number of customers 
+	--Very low average rent per customer 
 	--Strong average sales per customer at 11.6k
